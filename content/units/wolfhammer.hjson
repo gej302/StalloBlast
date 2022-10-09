@@ -1,6 +1,6 @@
 type: flying
 name: Wolfhammer
-description: Tough, large drones armed with two single-barrel undreside HMTs
+description: Tough, large drone armed with two single-barrel underside HMTs
 speed: 0.2
 flying: true
 health: 200
