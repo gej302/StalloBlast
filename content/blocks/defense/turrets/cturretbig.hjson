@@ -3,7 +3,11 @@ name: HMG Defender
 description: A gatling turret mainly loaded with CLC, does not target aircraft. Specifically made to also accept nonrefined ammunition, but consumes lots of it.
 health: 1200
 size: 3
-reloadTime: 100
+consumes: 
+{
+	coolant: {  amount: 0.2 	}
+}
+reload: 100
 range: 400
 inaccuracy: 3
 rotatespeed: 12

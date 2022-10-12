@@ -3,7 +3,7 @@ name: Lux Dei
 description: The ultimate weapon. However, no detection system could possibly oversee it's true firing range, therefore it needs to be manned to function.
 health: 2400
 size: 7
-reloadTime: 350
+reload: 350
 chargeTime: 60
 burstSpacing: 120
 range: 100
@@ -11,7 +11,10 @@ inaccuracy: 0
 rotatespeed: 12
 firingMoveFract: 0.1
 shootDuration: 500
-powerUse: 400
+consumes:
+{
+  power: 400
+}
 smokeEffect: titanSmoke
 chargeSound: laserbig
 shootSound: laserblast

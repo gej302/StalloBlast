@@ -3,14 +3,18 @@ name: Astron Charge Expulsor
 description: A large cannon, the result of someone re-assembling the AEC with more parts so many times that it turned into a new weapon. Launches a single, large, lingering energy projectile that cuts through enemy masses.
 health: 1200
 size: 3
-reloadTime: 75
+reload: 75
 chargeTime: 30
 range: 350
 inaccuracy: 0
 shots: 10
 rotatespeed: 12
 firingMoveFract: 0.1
-powerUse: 20
+consumes:
+{
+  power: 20
+  coolant: { amount: 0.2 }
+}
 shootSound: pew
 chargeBeginEffect: lancerLaserShoot
 chargeEffect: lancerLaserCharge

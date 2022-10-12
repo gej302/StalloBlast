@@ -4,7 +4,7 @@ description: "Assembles Nanites from mycrollite for further use in production"
 liquidCapacity: 200
 outputLiquid: {
   liquid: nanites
-  amount: 200
+  amount: 20
 }
 size: 5
 hasPower: true

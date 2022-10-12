@@ -3,7 +3,7 @@ name: Ceramoflak
 description: A flak turret usually loaded with CLC. Made to also accept nonrefined ammunition.
 health: 800
 size: 2
-reloadTime: 40
+reload: 40
 range: 200
 inaccuracy: 0
 rotatespeed: 12

@@ -4,7 +4,11 @@ description: A salvaged jet engine welded onto a turret. Hideously strong knockb
 maxAmmo: 520
 health: 600
 size: 5
-reloadTime: 0
+reload: 2
+consumes: 
+{
+	coolant: { amount: 0.2 }
+}
 range: 200
 inaccuracy: 0
 rotateSpeed: 1.5

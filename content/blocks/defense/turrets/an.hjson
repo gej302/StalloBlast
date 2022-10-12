@@ -3,13 +3,16 @@ name: Astron Nanocharger
 description: Small charged weapon. Strong in numbers.
 health: 400
 size: 1
-reloadTime: 20
+reload: 20
 chargeTime: 20
 range: 150
 inaccuracy: 0
 rotatespeed: 12
 firingMoveFract: 0.1
-powerUse: 10
+consumes:
+{ 
+  power:2
+}
 shootSound: pew
 chargeEffect: lancerLaserCharge
 chargeEffects: 1

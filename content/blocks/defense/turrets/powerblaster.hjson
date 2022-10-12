@@ -3,13 +3,17 @@ name: Power Blaster
 description: Rapidfire Lightning turret.
 health: 400
 size: 2
-reloadTime: 5
+consumes: 
+{
+  power: 5
+	coolant: { amount: 0.2 }
+}
+reload: 5
 shots: 3
 range: 200
 inaccuracy: 0
 rotatespeed: 12
 heatColor: ff0000
-powerUse: 5
 chargeBeginEffect: hitLancer
 shootSound: sap
 shootType: {

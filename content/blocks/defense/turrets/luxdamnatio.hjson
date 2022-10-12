@@ -3,7 +3,7 @@ name: Lux Damnatio
 description: The TRUE ultimate weapon.
 health: 9000
 size: 8
-reloadTime: 10
+reload: 10
 chargeTime: 5
 burstSpacing: 0
 range: 1500
@@ -11,7 +11,10 @@ inaccuracy: 0.5
 rotatespeed: 12
 firingMoveFract: 1
 shootDuration: 500
-powerUse: 400
+consumes:
+{
+  power: 400
+}
 shootEffect: none
 smokeEffect: none
 shootSound: laserblast

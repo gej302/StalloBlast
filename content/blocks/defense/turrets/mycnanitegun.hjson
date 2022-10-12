@@ -4,7 +4,7 @@ description: Advanced fluid turret, capable of compressing most fluids into burs
 health: 800
 size: 2
 range: 350
-reloadTime: 25
+reload: 25
 rotatespeed: 12
 hasLiquids: true
 liquidCapacity: 20

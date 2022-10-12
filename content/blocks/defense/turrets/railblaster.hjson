@@ -3,7 +3,11 @@ name: Avalon RT
 description: Shoots highly accelerated tungstenite carbide shells
 health: 800
 size: 2
-reloadTime: 12
+consumes: 
+{
+	coolant: { amount: 0.2 }
+}
+reload: 12
 range: 300
 inaccuracy: 2
 rotatespeed: 12

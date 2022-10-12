@@ -3,7 +3,11 @@ name: Pneumatic Annihilator
 description: The largest gun in the scrap arsenal. Fires heavy pneumatic shells.
 health: 800
 size: 3
-reloadTime:150
+consumes: 
+{
+	coolant: { amount: 0.2 }
+}
+reload:150
 range: 300
 inaccuracy: 0
 rotatespeed: 12

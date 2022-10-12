@@ -3,7 +3,11 @@ name: Pneumatic Cannon
 description: A turret capable of shooting bursts of metal, relatively cheap, can also be loaded with pneumatic shells.
 health: 400
 size: 2
-reloadTime: 120
+consumes: 
+{
+	coolant: { amount: 0.2 }
+}
+reload: 120
 range: 120
 rotatespeed: 12
 heatColor: ff0000

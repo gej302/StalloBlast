@@ -3,7 +3,11 @@ name: Mono
 description: A small scrap turret. Cheap, fast to build, easy to replace.
 health: 400
 size: 1
-reloadTime: 12
+consumes: 
+{
+	coolant: { amount: 0.2 }
+}
+reload: 12
 range: 100
 rotatespeed: 12
 heatColor: ff0000

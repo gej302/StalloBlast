@@ -3,7 +3,11 @@ name: Small Blaster
 description: A small multipurpose gun. A little less pew.
 health: 200
 size: 1
-reloadTime: 6
+consumes: 
+{
+	coolant: { amount: 0.2 }
+}
+reload: 6
 range: 100
 inaccuracy: 2
 rotatespeed: 12

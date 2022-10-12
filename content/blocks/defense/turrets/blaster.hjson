@@ -3,7 +3,7 @@ name: Blaster
 description: Medium-sized multipurpose turret, pretty long range. Pew!
 health: 800
 size: 2
-reloadTime: 3
+reload: 3
 range: 230
 inaccuracy: 3
 rotateSpeed: 15

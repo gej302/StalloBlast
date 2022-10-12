@@ -3,7 +3,7 @@ name: Antlion
 description: This turret shoots highly accelerated sand particles. They don't do much on their own, but can do a lot in masses. "They called me insane when I suggested we weaponize a sandblaster. I never said I wasn't."
 health: 200
 size: 1
-reloadTime: 2
+reload: 2
 range: 170
 inaccuracy: 25
 rotatespeed: 12

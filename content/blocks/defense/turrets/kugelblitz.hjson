@@ -3,14 +3,18 @@ name: Kugelblitz Cannon
 description: An experimental cannon that fires a concentrated ball of lightning.
 health: 1200
 size: 3
-reloadTime: 160
+reload: 160
 chargeTime: 80
 range: 600
 inaccuracy: 0
 shots: 10
 rotatespeed: 12
 firingMoveFract: 0.1
-powerUse: 40
+consumes:
+{
+  power: 40
+  coolant: { amount: 0.2 }
+}
 shootSound: pew
 shootEffect: sparkShoot
 chargeEffect: sparkShoot
