@@ -9,6 +9,7 @@ consumes:
 {
 	coolant: { amount: 0.2 }
 }
+hasLiquids: true
 range: 200
 inaccuracy: 0
 rotateSpeed: 1.5

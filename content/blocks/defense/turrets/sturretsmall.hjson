@@ -7,6 +7,7 @@ consumes:
 {
 	coolant: { amount: 0.2 }
 }
+hasLiquids: true
 reload: 12
 range: 100
 rotatespeed: 12

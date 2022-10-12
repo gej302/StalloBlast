@@ -7,6 +7,7 @@ consumes:
 {
 	coolant: { amount: 0.2 }
 }
+hasLiquids: true
 reload: 12
 range: 300
 inaccuracy: 2

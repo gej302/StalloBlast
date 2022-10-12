@@ -15,6 +15,7 @@ consumes:
   power: 40
   coolant: { amount: 0.2 }
 }
+hasLiquids: true
 shootSound: pew
 shootEffect: sparkShoot
 chargeEffect: sparkShoot

@@ -6,8 +6,9 @@ size: 2
 consumes: 
 {
   power: 5
-	coolant: { amount: 0.2 }
+  coolant: { amount: 0.2 }
 }
+hasLiquids: true
 reload: 5
 shots: 3
 range: 200

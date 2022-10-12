@@ -15,6 +15,7 @@ consumes:
   power: 15
   coolant: { amount: 0.2 }
 }
+hasLiquids: true
 shootSound: pew
 recoil: 1
 cooldown: 0.01
