@@ -25,10 +25,10 @@ requirements: [
   thorium/120
   silicon/160
   clc/100
-  archaium-crystal/25
+  asterrite-crystal/25
 ]
 category: crafting
-research: archaostructor
+research: asterrostructor
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: blast-compound/2

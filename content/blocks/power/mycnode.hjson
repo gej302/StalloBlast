@@ -10,7 +10,7 @@ laserColor2: 0000ee
 requirements: [
   mycrocluster/10
   silicon/5
-  archaium-crystal/1
+  asterrite-crystal/1
 ]
 category: power
 research: mycex

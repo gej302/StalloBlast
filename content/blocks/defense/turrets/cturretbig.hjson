@@ -13,6 +13,7 @@ inaccuracy: 3
 rotatespeed: 12
 heatColor: ff0000
 burstSpacing: 1
+spread: 0
 shots: 40
 velocityInaccuracy: 0.2
 targetAir: false

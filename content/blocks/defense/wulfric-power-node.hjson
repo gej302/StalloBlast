@@ -8,7 +8,7 @@ maxNodes: 50
 requirements: [
   tungstenitecarbide/30
   silicon/20
-  archaium-crystal/3
+  asterrite-crystal/3
 ]
 category: power
 research: wulfric-tungstenite-carbylator

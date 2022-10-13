@@ -28,7 +28,7 @@ requirements: [
   stalloblast/25
 ]
 category: crafting
-research: archaic-rephaser
+research: asterric-rephaser
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: astrollic-wafer/1

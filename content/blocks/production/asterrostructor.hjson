@@ -1,6 +1,6 @@
 type: GenericCrafter
-name: Archaostructor
-description: Re-phases Metaglass into Archaium Crystals
+name: Asterrostructor
+description: Re-phases Metaglass into Asterrite Crystals
 liquidCapacity: 50
 size: 3
 hasPower: true
@@ -30,4 +30,4 @@ category: crafting
 research: astryl-smelter
 idleSound: respawning
 idleSoundVolume: 0.5
-outputItem: archaium-crystal/1
+outputItem: asterrite-crystal/1

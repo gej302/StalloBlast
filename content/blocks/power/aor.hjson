@@ -1,5 +1,5 @@
 type: ImpactReactor
-name: Archaic Overcharge Reactor
+name: Asterric Overcharge Reactor
 description: Uses astryl to extract power from thorium very rapidly.
 size: 3
 hasPower: true
@@ -30,7 +30,7 @@ requirements: [
   metaglass/20
   clc/40
   silicon/60
-  archaium-crystal/50
+  asterrite-crystal/50
 ]
 category: power
 research: archaostructor

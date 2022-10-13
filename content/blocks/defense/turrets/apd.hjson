@@ -21,7 +21,7 @@ requirements: [
   clc/20
   copper/30
   titanium/30
-  archaium-crystal/5
+  asterrite-crystal/5
 ]
 category: turret
 research: archaostructor

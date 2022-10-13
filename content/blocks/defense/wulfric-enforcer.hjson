@@ -22,7 +22,7 @@ consumes: {
 requirements: [
   tungstenitecarbide/80
   titanium/240
-  archaium-crystal/60
+  asterrite-crystal/60
   silicon/60
 ]
 category: effect

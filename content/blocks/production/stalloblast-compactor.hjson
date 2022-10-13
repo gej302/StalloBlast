@@ -1,6 +1,6 @@
 type: AttributeCrafter
 name: Stalloblast Compactor
-description: Combines Blastic, Plastanium, Archaium crystals and Surge alloy to produce Stalloblast.
+description: Combines Blastic, Plastanium, Asterrite crystals and Surge alloy to produce Stalloblast.
 size: 4
 hasPower: true
 hasItems: true
@@ -10,7 +10,7 @@ consumes: {
   items: {
     items: [
       blastic/2
-      archaium-crystal/2
+      asterrite-crystal/2
       plastanium/1
       surge-alloy/1
     ]
@@ -24,10 +24,10 @@ requirements: [
   crimsonite/160
   blastic/120
   plastanium/120
-  archaium-crystal/50
+  asterrite-crystal/50
 ]
 category: crafting
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: stalloblast/2
-research: archaostructor
+research: asterrostructor

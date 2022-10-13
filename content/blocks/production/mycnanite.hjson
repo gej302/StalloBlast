@@ -19,7 +19,7 @@ requirements: [
   clc/200
   silicon/20
   metaglass/40
-  archaium-crystal/10
+  asterrite-crystal/10
 ]
 category: crafting
 research: mycforge

@@ -64,7 +64,7 @@ requirements: [
   thorium/60
   clc/150
   mycrocluster/30
-  archaium-crystal/60
+  asterrite-crystal/60
   titanium/200
 ]
 category: turret

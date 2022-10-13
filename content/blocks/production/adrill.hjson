@@ -1,4 +1,4 @@
-name: Archaic Blast Drill
+name: Asterric Blast Drill
 description: A high-end drill. Requires water.
 type: Drill
 size: 3
@@ -13,11 +13,11 @@ consumes: {
   }
 }
 requirements: [
-  archaium-crystal/20
+  asterrite-crystal/20
   clc/60
   silicon/40
   graphite/20
 ]
 category: production
-research: archaostructor
+research: asterrostructor
 drawMineItem: false

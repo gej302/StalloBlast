@@ -12,7 +12,7 @@ consumes: {
       stalloblast/1
       clc/3
       silicon/3
-      archaium-crystal/2
+      asterrite-crystal/2
     ]
   }
 }
@@ -22,7 +22,7 @@ requirements: [
   silicon/60
   clc/40
   stalloblast/20
-  archaium-crystal/40
+  asterrite-crystal/40
 ]
 category: crafting
 idleSound: respawning
