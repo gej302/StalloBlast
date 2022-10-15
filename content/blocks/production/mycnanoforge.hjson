@@ -29,7 +29,7 @@ requirements: [
   mycrocluster/20
 ]
 category: crafting
-research: mycnanite
+research: naniteassembler
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: mycrocluster/4
