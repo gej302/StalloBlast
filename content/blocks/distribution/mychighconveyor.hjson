@@ -1,4 +1,4 @@
-type: ExtendingItemBridge
+type: BufferedItemBridge
 name: Mycrollite Bridge Conveyor
 description: A very long-range, powerless bridge conveyor.
 health: 160
@@ -10,3 +10,4 @@ requirements: [
 category: distribution
 research: mycconveyor
 range: 25
+speed: .2

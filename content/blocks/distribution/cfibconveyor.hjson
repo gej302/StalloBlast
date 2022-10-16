@@ -8,6 +8,9 @@ requirements: [
   lead/3
   cfib/2
 ]
+arrowSpacing: 10
+arrowOffset: 5
+arrowPeriod: 3
 category: distribution
 speed: 0.15
 research: carb-weave
