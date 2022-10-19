@@ -36,7 +36,7 @@ plans: [
    time: 100
    requirements: [
       silicon/15
-      astron/10
+      astron/100
     ]
 }
 
