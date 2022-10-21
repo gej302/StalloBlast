@@ -1,5 +1,5 @@
 type: Conveyor
-name: Carbon fiber conveyor
+name: Carbon Fiber Conveyor
 description: A fast, relatively hardy conveyor ~20/sec
 health: 130
 requirements: [
