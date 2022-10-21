@@ -20,15 +20,15 @@ consumes: {
   }
 }
 requirements: [
-  lead/100
+  tungstenitecarbide/40
   thorium/100
   silicon/100
-  blastic/50
+  cfib/50
   asterrite-crystal/20
   stalloblast/2
 ]
 category: crafting
-research: stalloblast-compactor
+research: tung-replicator
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: tungstenite/4
