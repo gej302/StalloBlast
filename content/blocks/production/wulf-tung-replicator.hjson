@@ -1,11 +1,12 @@
 type: GenericCrafter
 name: Wulfric Tungstenite Replicator
-description: TEMPORARY! An improved machine to extract tungstenite from scrap using astryl. Twice the output, smaller, consumes more scrap, but the less astryl per tungstenite.
+description: TEMPORARY! An improved machine to extract tungstenite from scrap using astryl. Twice the output, smaller, consumes more scrap, but less astryl per tungstenite.
 liquidCapacity: 50
 size: 2
 hasPower: true
 hasLiquids: true
 hasItems: true
+itemCapacity: 20
 craftTime: 100
 consumes: {
   power: 1
