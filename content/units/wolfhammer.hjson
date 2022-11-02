@@ -3,7 +3,8 @@ name: Wolfhammer
 description: Tough, large drone armed with two single-barrel underside HMTs
 speed: 2
 flying: true
-health: 20000
+health: 10000
+armor: 20
 attackLength: 0
 engineOffset: 5.9
 engineSize: 1.7
