@@ -42,5 +42,5 @@ idleSoundVolume: 0.5
 outputItem: astron/2
 outputLiquid: {
   liquid: astrolyte
-  amount: .1
+  amount: 1
 }

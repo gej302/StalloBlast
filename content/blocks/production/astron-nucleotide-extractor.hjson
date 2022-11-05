@@ -29,5 +29,5 @@ idleSoundVolume: 0.5
 outputItem: thorium/1
 outputLiquid: {
   liquid: astrolyte
-  amount: 25
+  amount: 5
 }
