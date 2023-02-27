@@ -26,5 +26,5 @@ category: crafting
 idleSound: respawning
 idleSoundVolume: 0.5
 outputItem: sbullet/3
-research: compressorbig
+research: scompressorbig
 flameColor: ff0000
