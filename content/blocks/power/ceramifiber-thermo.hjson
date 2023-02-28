@@ -1,0 +1,15 @@
+type: ThermalGenerator
+name: Ceramifiber Thermocoupler
+description: Uses rigid carbon fiber to make a small, efficient electrical generator
+size: 1
+hasPower: true
+powerProduction: 2.2
+requirements: [
+  cfib/10
+  clc/10
+  silicon/10
+  titanium/10
+]
+category: power
+research: carb-weave
+
