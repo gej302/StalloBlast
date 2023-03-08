@@ -1,0 +1,26 @@
+type: GenericCrafter
+name: BGC Press
+description: Makes Beryl-Graphite Ceramics, which are CLC equivalent.
+size: 2
+hasPower: true
+hasItems: true
+craftTime: 40
+consumes: {
+  power: 0.7
+  items: {
+    items: [
+      beryllium/1
+      graphite/1
+    ]
+  }
+}
+requirements: [
+  graphite/50
+  beryllium/50
+  silicon/60
+]
+category: crafting
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: clc/2
+research: silicon-arc-furnace

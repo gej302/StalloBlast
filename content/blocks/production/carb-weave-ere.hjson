@@ -1,0 +1,27 @@
+type: GenericCrafter
+name: Erekir Carbon Weaver
+description: A machine to weave graphite and tungsten (erekir) into reinforced carbon fiber.
+size: 3
+hasPower: true
+hasItems: true
+craftTime: 40
+consumes: {
+  power: 1.2
+  items: {
+    items: [
+      graphite/4
+      tungsten/1
+    ]
+  }
+}
+requirements: [
+  clc/50
+  tungsten/60
+  silicon/60
+  graphite/40
+]
+category: crafting
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: cfib/4
+research: bgc-press

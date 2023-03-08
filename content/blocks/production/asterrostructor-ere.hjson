@@ -1,0 +1,33 @@
+type: GenericCrafter
+name: Erekir Asterrostructor
+description: Restructures ceramics into Asterrite Crystals using cyanogen
+liquidCapacity: 50
+size: 3
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 60
+consumes: {
+  power: 0.7
+  items: {
+    items: [
+      clc/2
+    ]
+  }
+  liquid: {
+    liquid: cyanogen
+    amount: 1
+  }
+}
+requirements: [
+  graphite/50
+  thorium/80
+  silicon/60
+  cfib/50
+  phase-fabric/10
+]
+category: crafting
+research: carb-weave-ere
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: asterrite-crystal/1
