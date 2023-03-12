@@ -3,13 +3,11 @@ name: Ceramifiber Solar Panel
 description: Uses rigid carbon fiber and specialized ceramics to provide advanced solar power conversion.
 size: 2
 hasPower: true
-powerProduction: .7
-plasmas: 1
-plasma1: fffabc
+powerProduction: .9
+
 requirements: [
-  cfib/40
-  clc/40
-  silicon/60
+  cfib/60
+  clc/60
 ]
 category: power
 research: carb-weave

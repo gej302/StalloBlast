@@ -1,0 +1,36 @@
+type: PowerTurret
+name: BGC Plasma Blaster
+description: Rapidfire Plasma turret.
+health: 1200
+size: 2
+consumes: 
+{
+  power: 7
+  coolant: { amount: 0.2 }
+}
+hasLiquids: true
+reload: 10
+shots: 1
+range: 300
+inaccuracy: 0
+rotatespeed: 12
+heatColor: ff0000
+chargeBeginEffect: hitLancer
+shootSound: sap
+shootType: {
+	type: missileBulletType
+	speed: 12
+	lifetime: 25
+	homingPower: 16
+	homingRange: 256
+	damage: 45
+	collidesAir: true
+}
+requirements: [
+  clc/40
+  cfib/20
+  tungsten/70	
+  silicon/40
+]
+category: turret
+research: bgcflak
