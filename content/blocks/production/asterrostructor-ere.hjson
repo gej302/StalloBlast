@@ -1,6 +1,6 @@
 type: GenericCrafter
 name: Erekir Asterrostructor
-description: Restructures ceramics into Asterrite Crystals using cyanogen
+description: Restructures ceramics and thorium into Asterrite Crystals in a nitrogen chamber to prevent combustion.
 liquidCapacity: 50
 size: 3
 hasPower: true
@@ -12,11 +12,12 @@ consumes: {
   items: {
     items: [
       clc/2
+      thorium/2
     ]
   }
   liquid: {
-    liquid: cyanogen
-    amount: 1
+    liquid: nitrogen
+    amount: .05
   }
 }
 requirements: [

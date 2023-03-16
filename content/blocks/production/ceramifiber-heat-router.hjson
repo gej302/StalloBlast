@@ -1,0 +1,35 @@
+type: HeatConductor
+name: Ceramifiber Heat Router
+description: Uses rigid carbon fiber and specialized ceramics to provide advanced heat distribution.
+size: 2
+regionRotated1: 1
+splitHeat: true
+drawer: {
+	type: DrawMulti,
+	drawers: [
+    {
+			type: DrawDefault
+		},
+		{ type: DrawHeatOutput
+        rotOffset: -1
+        drawGlow: false		
+		},
+		{ type: DrawHeatOutput
+        rotOffset: 1
+        drawGlow: false		
+		},
+		{ type: DrawHeatOutput	
+		},
+		{ type: DrawHeatInput 
+		  suffix: "-heat"
+		}
+	]
+}
+requirements: [
+  cfib/10
+  clc/20
+]
+category: crafting
+research: heat-router
+
+

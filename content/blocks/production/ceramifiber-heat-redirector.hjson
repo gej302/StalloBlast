@@ -1,0 +1,26 @@
+type: HeatConductor
+name: Ceramifiber Heat Redirector
+description: Uses rigid carbon fiber and specialized ceramics to provide advanced directed heat.
+size: 2
+regionRotated1: 1
+drawer: {
+	type: DrawMulti,
+	drawers: [
+    {
+			type: DrawDefault
+		},
+		{ type: DrawHeatOutput
+		},
+		{ type: DrawHeatInput 
+		  suffix: "-heat"
+		}
+	]
+}
+requirements: [
+  cfib/10
+  clc/10
+]
+category: crafting
+research: heat-redirector
+
+
