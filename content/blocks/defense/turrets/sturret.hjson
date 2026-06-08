@@ -13,7 +13,9 @@ range: 120
 rotatespeed: 12
 heatColor: ff0000
 burstSpacing: 2
-shots: 10
+shoot: {
+  shots: 10
+}
 inaccuracy: 2
 shootEffect: steam
 smokeEffect: shootSmallSmoke

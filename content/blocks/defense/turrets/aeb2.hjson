@@ -7,7 +7,9 @@ reload: 75
 chargeTime: 30
 range: 350
 inaccuracy: 0
-shots: 10
+shoot: {
+  shots: 10
+}
 rotatespeed: 12
 firingMoveFract: 0.1
 consumes:

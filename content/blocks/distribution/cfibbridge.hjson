@@ -10,5 +10,5 @@ requirements: [
 category: distribution
 research: carb-weave
 range: 7
-speed: .15
+speed: .1
 

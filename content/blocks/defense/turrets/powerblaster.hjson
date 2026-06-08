@@ -10,7 +10,9 @@ consumes:
 }
 hasLiquids: true
 reload: 5
-shots: 3
+shoot: {
+  shots: 3
+}
 range: 200
 inaccuracy: 0
 rotatespeed: 12

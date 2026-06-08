@@ -21,7 +21,7 @@ consumes: {
   }
 }
 requirements: [
-  graphite/50
+  beryllium/50
   thorium/80
   silicon/60
   cfib/50
@@ -31,4 +31,4 @@ category: crafting
 research: carb-weave-ere
 idleSound: respawning
 idleSoundVolume: 0.5
-outputItem: asterrite-crystal/1
+outputItem: asterrite-crystal/2

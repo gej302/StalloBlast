@@ -9,7 +9,9 @@ inaccuracy: 0
 rotatespeed: 12
 heatColor: ff0000
 burstSpacing: 2
-shots: 5
+shoot: {
+  shots: 5
+}
 ammoTypes:{
 clc:
 	{
