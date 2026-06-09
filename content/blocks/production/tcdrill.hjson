@@ -5,6 +5,7 @@ health: 2000
 size: 2
 tier: 15
 drillTime: 275
+hasLiquids: false
 rotateSpeed: 10
 requirements: [
   tungstenitecarbide/80
